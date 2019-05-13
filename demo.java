@@ -1,3 +1,8 @@
+void DIVISION()
+{
+  c=a/b
+}
+
 void MUL()
 {
   C=A*B 
