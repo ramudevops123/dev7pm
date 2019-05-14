@@ -1,3 +1,10 @@
+Puppet 
+  - resources
+  - classes
+  - inheritance
+  - templates
+  
+
 Ansible
   - playbooks
   - modules
