@@ -1,3 +1,11 @@
+ class devops
+ {
+   ANSIBLE
+   PUPPET 
+   CHEF
+   DOCKER
+    ....
+ }
 
  class bank
  {
