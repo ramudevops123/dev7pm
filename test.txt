@@ -1,3 +1,10 @@
+Ansible
+  - playbooks
+  - modules
+  - ad-hoc commands
+  - roles 
+
+
 SATHYA TECH
 HYDERABD
 DEVOPS
